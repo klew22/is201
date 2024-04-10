@@ -1,0 +1,50 @@
+body {
+    background-color: green;
+    color: azure;
+    /*text color*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30pt;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+    font-size: 20pt;
+}
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: blue;
+}
+
+img {
+    border: 4px solid white;
+    padding: 3px;
+    margin: 5px;
+    /*padding, then border, then margin referred to as box model */
+    /*centers stuff */
+    display: block;
+    margin: auto;
+}
+
+/* (For centering one image).imgcenter{
+    display: block;
+    margin: auto;}
+    Then input class="imgcenter" right after the img listed in the body below
+ */
+
+.rizz{
+    border: 8px solid orchid;
+    padding: 8px;
+    margin: 8px;
+    display: block;
+    margin: auto;
+}
