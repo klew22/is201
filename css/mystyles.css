@@ -1,0 +1,27 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.site-heading-lower{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mb-3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.notyellow{
+    color:black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5)
+}
+.section-heading-lower{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5)
+}
+.titlecolor{
+    color:antiquewhite;
+    font-size:x-large;
+}
+.linkcolor{
+    color: antiquewhite;
+    font-size:x-large;
+}

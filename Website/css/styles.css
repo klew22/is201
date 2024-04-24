@@ -1,0 +1,53 @@
+body {
+    background-color:antiquewhite;
+    color: black;
+    /*text color*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50pt;
+}
+
+.listtitle{
+    font-size: larger;
+}
+
+h5 {
+    text-align: center;
+    font-size: 20pt;
+}
+
+.links{
+    font-size: larger;
+}
+
+a{color: black;}
+    
+a:visited{color: sienna;} 
+
+img{border: 1px solid black;
+    padding: 0px;
+    margin: 5px;}
+
+.word {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+/* (For centering one image).imgcenter{
+    display: block;
+    margin: auto;}
+    Then input class="imgcenter" right after the img listed in the body below
+ */
+
+.rizz{
+    border: 1px solid black;
+    padding: 0px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
